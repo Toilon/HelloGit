@@ -1,7 +1,2 @@
 # HelloGit
-ûאûאû
-
-ûגא
-ûא
-ûגא
-ûגא
+This is test2 branch
